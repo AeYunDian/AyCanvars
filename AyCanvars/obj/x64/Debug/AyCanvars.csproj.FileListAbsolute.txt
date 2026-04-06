@@ -1,0 +1,13 @@
+D:\project\AyCanvars\AyCanvars\bin\x64\Debug\AyCanvars.exe.config
+D:\project\AyCanvars\AyCanvars\bin\x64\Debug\AyCanvars.exe
+D:\project\AyCanvars\AyCanvars\bin\x64\Debug\AyCanvars.pdb
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.csproj.AssemblyReference.cache
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.Form1.resources
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.more.resources
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.penSetting.resources
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.Properties.Resources.resources
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.csproj.GenerateResource.cache
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.csproj.CoreCompileInputs.cache
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.exe
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.pdb
+D:\project\AyCanvars\AyCanvars\obj\x64\Debug\AyCanvars.exe.config
