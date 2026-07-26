@@ -1,15 +1,4 @@
----
-icon: pen-ruler
-date: 2026-04-08
-title: "AyCanvars"
-prev: false
-next: false
----
-
-本文章介绍了我自己开发的一款适用于触屏和鼠标的简易绘图软件。
-
-<!-- more -->
-
+# AyCanvars
 ## 简介
 
 AyCanvars 是一款基于 C# 和 .NET Framework 4.6.2 开发的绘图程序，专为课堂批注、自由绘画等场景设计。支持触屏与鼠标双重操作，界面原创，图标独立设计。
